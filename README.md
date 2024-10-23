@@ -1,6 +1,6 @@
 ## Live Demo
 
-You can view the live demo of the project here: https://baykar-responsive-web-u3s9.vercel.app
+You can view the live demo of the project here: [Baykar Javascript Quiz](https://baykar-javascript-quiz-app.vercel.app/)
 
 ## Installation
 
